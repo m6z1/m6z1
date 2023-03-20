@@ -30,10 +30,13 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 </div>
+<br>
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true">
 <br>
 <br>
-
-[🎵Today's Music](http://www.youtube.com/watch?v=mBXBOLG06Wc)
+	
+<div align=center>
+	[🎵Today's Music](http://www.youtube.com/watch?v=mBXBOLG06Wc)
+</div>
