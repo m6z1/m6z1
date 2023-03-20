@@ -2,7 +2,7 @@
 
 
 
-<img align="left" width="360" height="435" src="sadai.jfif">
+<img align="left" width="350" height="435" src="sadai.jfif">
 
 <div align="center">
 <h2>Hello! Welcome to my github.✨
