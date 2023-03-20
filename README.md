@@ -9,9 +9,7 @@
 <img align="left" width="350" src="sadai.jfif">
 
 <div align="center">
-Hello! Welcome to my github.
-I'm looking for my dream.<br>
-Please watch me become a great me.✨
+Hello! Welcome to my github.✨
 <h3>🏃‍♀️ Studying 🏃‍ </p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
@@ -27,7 +25,7 @@ Please watch me become a great me.✨
 <a href="https://instagram.com/m6z1s?igshid=YmMyMTA2M2Y=">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 </a>
-  
+  <p></p>
 <br>
 
 ![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true)
