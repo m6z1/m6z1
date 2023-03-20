@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=150&text=m6z1's%20Github">
 </div>
 <div align=center>
+	<img src=sadai.jfif height=400>
+</div>
+
+<div align=center>
     <h3>👩 m6z1 👩 </h3>
     My mother said "Do your best in your position (my position = student)"
 </div>
