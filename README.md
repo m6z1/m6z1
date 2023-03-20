@@ -9,7 +9,7 @@
 <img align="left" width="350" height="450" src="sadai.jfif">
 
 <div align="center">
-Hello! Welcome to my github.✨
+<h2>Hello! Welcome to my github.✨
 <h3>🏃‍♀️ Studying 🏃‍ </p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
