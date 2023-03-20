@@ -28,4 +28,4 @@ Hello! Welcome to my github.✨
   <p></p>
 <br>
 
-![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true)
+![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&color=5C6BC0)
