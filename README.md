@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=150&text=m6z1's%20Github">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=150">
 </div>
 
 [🎵Today's Music](http://www.youtube.com/watch?v=mBXBOLG06Wc)
