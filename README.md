@@ -24,4 +24,4 @@
   <p></p>
 <br>
 
-![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&text_color=5C6BC0&title_color=5C6BC0)
+![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&text_color=000000&title_color=000000&icon_color=000099)
