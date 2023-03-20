@@ -22,7 +22,7 @@
 	<a href="https://velog.io/@m6z1">
 		<img src="https://img.shields.io/badge/Blog-F08705?style=flat&logo=Velog&logoColor=white" />
 	</a>
-	<a href="mail:sonmyungj1zz@gmail.com">
+	<a href="mailto:sonmyungj1zz@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-43B02A?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://instagram.com/m6z1s?igshid=YmMyMTA2M2Y=">
