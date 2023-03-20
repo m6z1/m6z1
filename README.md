@@ -6,7 +6,7 @@
 
 
 
-<img align="left" width="450" src="sadai.jfif">
+<img align="left" width="350" src="sadai.jfif">
 
 <div align="center">
 Hello! Welcome to my github.
