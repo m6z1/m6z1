@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-    <h3>📖 Studying 📖 
+    <h3>🏃‍♀️ Studying 🏃‍♀️ 
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
