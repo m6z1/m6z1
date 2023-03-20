@@ -27,5 +27,6 @@ Please watch me become a great me.✨
 <a href="https://instagram.com/m6z1s?igshid=YmMyMTA2M2Y=">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 </a>
+<br>
   
 ![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true)
