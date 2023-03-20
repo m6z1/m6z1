@@ -3,7 +3,7 @@
 </div>
 <div align=center>
     <h3>👩 m6z1 👩 </h3>
-    Do my best in my position (my position = student)
+    My mother said "Do your best in your position (my position = student)"
 </div>
 
 <div align=center>
