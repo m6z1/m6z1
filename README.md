@@ -6,7 +6,7 @@
 
 
 
-<img align="left" width="350" src="sadai.jfif" topmargin="100">
+<img align="left" width="350" height="450" src="sadai.jfif">
 
 <div align="center">
 Hello! Welcome to my github.✨
@@ -28,4 +28,4 @@ Hello! Welcome to my github.✨
   <p></p>
 <br>
 
-![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&color=5C6BC0)
+![m6z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&text_color=5C6BC0&title_color=5C6BC0)
