@@ -37,6 +37,5 @@
 <br>
 <br>
 	
-<div align=center>
-	[🎵Today's Music](http://www.youtube.com/watch?v=mBXBOLG06Wc)
-</div>
+[🎵Today's Music](http://www.youtube.com/watch?v=mBXBOLG06Wc)
+
