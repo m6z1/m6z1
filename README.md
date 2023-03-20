@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F26B8A&height=150&text=m6z1's%20Github">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6BC0&height=150&text=m6z1's%20Github">
 </div>
 <div align=center>
     <h3>👩 m6z1 👩 </h3>
@@ -33,7 +33,7 @@
 <br>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&text_color=F26B8A&title_color=F26B8A&icon_color=F25278">
+<img src="https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&text_color=5C6BC0&title_color=5C6BC0&icon_color=1">
 <br>
 <br>
 	
