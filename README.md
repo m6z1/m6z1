@@ -34,7 +34,6 @@
 </div>
 
 <div align=center>
-	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true">
 <br>
 <br>
