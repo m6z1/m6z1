@@ -1,4 +1,4 @@
-[🎵 Today's Music](http://www.youtube.com/watch?v=mBXBOLG06Wc](https://www.youtube.com/watch?v=xE7VLYsnrak)
+[🎵 Today's Music](https://www.youtube.com/watch?v=xE7VLYsnrak)
 
 
 
