@@ -1,4 +1,4 @@
-[🎵 Today's video]([https://www.youtube.com/watch?v=Km71Rr9K-Bw))
+[🎵 Today's video]([https://www.youtube.com/watch?v=Km71Rr9K-Bw])
 
 
 <img align="left" width="350" height="435" src="sadai.jfif">
