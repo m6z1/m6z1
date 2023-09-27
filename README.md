@@ -6,10 +6,10 @@
 <div align="center">
 <h2>Hello! Welcome to my github.✨
 <h3>🏃‍♀️ Studying 🏃‍ </p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84F?style=flat&logo=Android&logoColor=white" />
+  
 <h3>🥨 SNS 🥨 </p>
 <a href="https://velog.io/@m6z1">
 <img src="https://img.shields.io/badge/Blog-F08705?style=flat&logo=Velog&logoColor=white" />
