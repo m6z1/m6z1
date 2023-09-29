@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84F?style=flat&logo=Android&logoColor=white" />
   
 <h3>🥨 SNS 🥨 </p>
-<a href="https://velog.io/@mongj1">
+<a href="https://velog.io/@m0ngj1">
 <img src="https://img.shields.io/badge/Blog-F08705?style=flat&logo=Velog&logoColor=white" />
 </a>
 <a href="mailto:sonmyungj1zz@gmail.com">
