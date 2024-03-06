@@ -1,3 +1,9 @@
-[🎵 작업송](https://www.youtube.com/watch?v=ATZYL8Gvm6o)
+<p align="center">
+  <img src= "https://github.com/m6z1/m6z1/assets/114990782/f8d5c9ec-bb23-4c05-8345-1d26c2dd8c37" />
+</p>
 
-![Frame 1](https://github.com/m6z1/m6z1/assets/114990782/24837c25-f844-4a8f-929b-2c4494e522ff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m6z1&show_icons=true&theme=vue&bg_color=FFFFFF00&hide_border=true&text_color=41b883&icon_color=273849" alt="m6z1" />
+  </br>
+  <img src ="https://streak-stats.demolab.com?user=m6z1&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
+</p>
